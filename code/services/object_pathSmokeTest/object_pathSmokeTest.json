@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,object_path",
+    "logging_enabled": "false",
+    "name": "object_pathSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "object_pathSmokeTest.js"
+}
